@@ -1,4 +1,4 @@
-date,temperature ,pH,oxygen ,permanganate ,NH,TP,TN,conductivity ,turbidity ,chla,density
+date,temperature,pH,oxygen,permanganate,NH,TP,TN,conductivity,turbidity,chla,density
 2021/1/1 0:00,3.7,7.52,12.57,4.45,0.025,0.124,1.31,390.5,158.6,0.003,6722100
 2021/1/1 4:00,3.4,7.55,12.63,3.97,0.025,0.116,1.26,384.1,151,0.004,7987800
 2021/1/1 8:00,3.2,7.56,12.64,4.18,0.025,0.096,1.2,382.7,143.5,0.004,7218900
